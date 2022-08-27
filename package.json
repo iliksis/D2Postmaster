@@ -9,13 +9,21 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-navigation/bottom-tabs": "^6.3.2",
+    "@react-navigation/drawer": "^6.4.3",
+    "@react-navigation/native-stack": "^6.7.0",
+    "@types/react": "~18.0.0",
+    "@types/react-native": "~0.69.1",
     "expo": "~46.0.7",
+    "expo-image-picker": "~13.3.1",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
-    "react-native": "0.69.4"
+    "react-native": "0.69.5",
+    "typescript": "^4.6.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "@types/react": "~18.0.0"
   },
   "private": true
 }
